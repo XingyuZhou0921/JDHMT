@@ -5,4 +5,5 @@ JDHMT: High-quality Gene/Disease Embedding in A Multi-relational Heterogeneous G
 **Python>=3.5**
 
 ## Basic Usage
-_1._
+__1.Get Primary data__
+Step(1): run 
