@@ -1,0 +1,95 @@
+anaplastic thyroid carcinoma 	D065646
+small cell lung cancer 	D055752
+acute lymphoblastic leukemia 	D054198
+gastrointestinal stromal tumor 	D046152
+pancreatic ductal adenocarcinoma 	D021441
+mantle cell lymphoma 	D020522
+glioblastoma 	D018316
+mucinous cystadenocarcinoma 	D018282
+cholangiocarcinoma 	D018281
+intrahepatic cholangiocarcinoma 	D018281
+invasive ductal carcinoma 	D018270
+adrenal cortical carcinoma 	D018268
+follicular thyroid carcinoma 	D018263
+hepatoblastoma 	D018197
+anaplastic large-cell lymphoma 	D017728
+endometrial cancer 	D016889
+cutaneous t-cell lymphoma 	D016410
+diffuse large B-cell lymphoma 	D016403 
+b-cell lymphoma 	D016393
+acute promyelocytic leukemia 	D015473 
+acute myeloid leukemia 	D015470 
+chronic myelogenous leukemia 	D015464
+adult t-cell leukemia 	D015459
+chronic lymphocytic leukemia 	D015451
+colorectal cancer 	D015179
+uterine cancer	D014594
+tongue cancer 	D014062
+thyroid cancer 	D013964
+gastric cancer 	D013274
+osteosarcoma 	D012516
+rhabdomyosarcoma 	D012208 
+retinoblastoma 	D012175
+rectal cancer 	D012004
+prostate adenocarcinoma 	D011471
+prostate cancer 	D011471
+pituitary carcinoma 	D010911
+pancreatic cancer 	D010190
+ovarian cancer 	D010051
+ovarian carcinoma 	D010051
+oropharyngeal cancer 	D009959
+neuroblastoma 	D009447
+nephroblastoma 	D009396
+nasopharyngeal cancer 	D009303
+nasopharyngeal carcinoma 	D009303
+multiple myeloma 	D009101
+meningioma 	D008577
+malignant melanoma 	D008545
+medulloblastoma 	D008527
+waldenstrom's macroglobulinemia 	D008258
+follicular lymphoma 	D008224
+liver cancer 	D008113
+lymphoblastic leukemia 	D007945
+leiomyosarcoma 	D007890
+uterine leiomyoma	D007889
+kidney cancer 	D007680
+hypopharyngeal cancer 	D007012
+Hodgkin's lymphoma 	D006689
+hepatocellular carcinoma 	D006528
+head and neck cancer 	D006258
+glioma 	D005910
+gastrointestinal cancer 	D005770
+esophageal cancer 	D004938
+esophageal carcinoma 	D004938
+ependymoma 	D004806
+gastrointestinal cancer 	D004067
+adenoid cystic carcinoma 	D003528
+colon cancer 	D003110
+choriocarcinoma 	D002822
+chordoma 	D002817
+chondrosarcoma 	D002813
+cervical adenocarcinoma 	D002583
+cervical cancer 	D002583
+clear cell renal cell cancer 	D002292
+renal cell carcinoma 	D002292
+renal clear cell carcinoma 	D002292
+non-small cell lung cancer 	D002289
+bronchioloalveolar carcinoma 	D002282
+basal cell carcinoma 	D002280
+Burkitt lymphoma 	D002051
+breast carcinoma 	D001943
+breast cancer 	D001943
+brain cancer 	D001932
+bladder cancer 	D001749
+astrocytoma 	D001254
+anaplastic astrocytoma 	D001254
+follicular cancer 	D000236
+acute leukemia 	C564112
+malignant mesothelioma 	C562839
+esophageal adenocarcinoma 	C562730
+esophageal squamous cell carcinoma 	C562729
+pancreatic carcinoma 	C562463
+lung adenocarcinoma 	C538231
+medullary thyroid carcinoma 	C536914
+uveal melanoma 	C536494
+head and neck squamous cell carcinoma 	C535575

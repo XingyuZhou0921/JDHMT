@@ -1,0 +1,332 @@
+
+2019/1/4
+----------------------------------Paramater Setting----------------------------------
+Using lambdaA 0.0001 using lambdaR 0.0001 using lambdaV 0.0001 using lambdaS 0.001
+using Maxiter 300 init_method random fit_method False checkpoint 1000,1100
+Chemical:15076	Mutation:108023	Pathway:2363	Phenotype:7732	Genes:27165	Diseases:2665
+Disease-Chemical:1310249
+Disease-Mutation:54032
+Disease-Pathway:150855
+Disease-Phenotype:1033
+Disease-Disease:1826
+Gene-Chemical:507004
+Gene-Mutation:116033
+Gene-Pathway:135345
+Gene-Phenotype:160931
+Gene-Gene:379235
+Gene-Disease:11224532
+Disease-Gene:11224532
+The shape of W: 29830*163024
+The shape of X: 29830*29830*2
+Initialized R
+step:   0 | fit: 0.00000 | delta: 0.0e+00 | secs: 5.78906
+step:   1 | fit: 1.00000 | delta: 1.0e+00 | secs: 5.76915
+step:   2 | fit: 2.00000 | delta: 1.0e+00 | secs: 5.80692
+step:   3 | fit: 3.00000 | delta: 1.0e+00 | secs: 5.81660
+step:   4 | fit: 4.00000 | delta: 1.0e+00 | secs: 5.80687
+step:   5 | fit: 5.00000 | delta: 1.0e+00 | secs: 5.74239
+step:   6 | fit: 6.00000 | delta: 1.0e+00 | secs: 5.76229
+step:   7 | fit: 7.00000 | delta: 1.0e+00 | secs: 5.72134
+step:   8 | fit: 8.00000 | delta: 1.0e+00 | secs: 5.72218
+step:   9 | fit: 9.00000 | delta: 1.0e+00 | secs: 5.71688
+step:  10 | fit: 10.00000 | delta: 1.0e+00 | secs: 5.70734
+step:  11 | fit: 11.00000 | delta: 1.0e+00 | secs: 5.70751
+step:  12 | fit: 12.00000 | delta: 1.0e+00 | secs: 5.71921
+step:  13 | fit: 13.00000 | delta: 1.0e+00 | secs: 5.73890
+step:  14 | fit: 14.00000 | delta: 1.0e+00 | secs: 5.74296
+step:  15 | fit: 15.00000 | delta: 1.0e+00 | secs: 5.92469
+step:  16 | fit: 16.00000 | delta: 1.0e+00 | secs: 5.76888
+step:  17 | fit: 17.00000 | delta: 1.0e+00 | secs: 5.79743
+step:  18 | fit: 18.00000 | delta: 1.0e+00 | secs: 5.79274
+step:  19 | fit: 19.00000 | delta: 1.0e+00 | secs: 5.93478
+step:  20 | fit: 20.00000 | delta: 1.0e+00 | secs: 5.76505
+step:  21 | fit: 21.00000 | delta: 1.0e+00 | secs: 5.76243
+step:  22 | fit: 22.00000 | delta: 1.0e+00 | secs: 5.75376
+step:  23 | fit: 23.00000 | delta: 1.0e+00 | secs: 5.77113
+step:  24 | fit: 24.00000 | delta: 1.0e+00 | secs: 5.85391
+step:  25 | fit: 25.00000 | delta: 1.0e+00 | secs: 6.04021
+step:  26 | fit: 26.00000 | delta: 1.0e+00 | secs: 5.83833
+step:  27 | fit: 27.00000 | delta: 1.0e+00 | secs: 5.89240
+step:  28 | fit: 28.00000 | delta: 1.0e+00 | secs: 5.85964
+step:  29 | fit: 29.00000 | delta: 1.0e+00 | secs: 5.85205
+step:  30 | fit: 30.00000 | delta: 1.0e+00 | secs: 5.82977
+step:  31 | fit: 31.00000 | delta: 1.0e+00 | secs: 5.81047
+step:  32 | fit: 32.00000 | delta: 1.0e+00 | secs: 5.95467
+step:  33 | fit: 33.00000 | delta: 1.0e+00 | secs: 5.92196
+step:  34 | fit: 34.00000 | delta: 1.0e+00 | secs: 6.02474
+step:  35 | fit: 35.00000 | delta: 1.0e+00 | secs: 6.00337
+step:  36 | fit: 36.00000 | delta: 1.0e+00 | secs: 5.83705
+step:  37 | fit: 37.00000 | delta: 1.0e+00 | secs: 5.95959
+step:  38 | fit: 38.00000 | delta: 1.0e+00 | secs: 5.92798
+step:  39 | fit: 39.00000 | delta: 1.0e+00 | secs: 5.89912
+step:  40 | fit: 40.00000 | delta: 1.0e+00 | secs: 6.07872
+step:  41 | fit: 41.00000 | delta: 1.0e+00 | secs: 5.85159
+step:  42 | fit: 42.00000 | delta: 1.0e+00 | secs: 5.86797
+step:  43 | fit: 43.00000 | delta: 1.0e+00 | secs: 5.88798
+step:  44 | fit: 44.00000 | delta: 1.0e+00 | secs: 5.89617
+step:  45 | fit: 45.00000 | delta: 1.0e+00 | secs: 6.25316
+step:  46 | fit: 46.00000 | delta: 1.0e+00 | secs: 5.98085
+step:  47 | fit: 47.00000 | delta: 1.0e+00 | secs: 5.96841
+step:  48 | fit: 48.00000 | delta: 1.0e+00 | secs: 5.94696
+step:  49 | fit: 49.00000 | delta: 1.0e+00 | secs: 6.04869
+step:  50 | fit: 50.00000 | delta: 1.0e+00 | secs: 5.98236
+step:  51 | fit: 51.00000 | delta: 1.0e+00 | secs: 6.00944
+step:  52 | fit: 52.00000 | delta: 1.0e+00 | secs: 5.99290
+step:  53 | fit: 53.00000 | delta: 1.0e+00 | secs: 6.09374
+step:  54 | fit: 54.00000 | delta: 1.0e+00 | secs: 6.10760
+step:  55 | fit: 55.00000 | delta: 1.0e+00 | secs: 6.02169
+step:  56 | fit: 56.00000 | delta: 1.0e+00 | secs: 6.28635
+step:  57 | fit: 57.00000 | delta: 1.0e+00 | secs: 6.17436
+step:  58 | fit: 58.00000 | delta: 1.0e+00 | secs: 6.16272
+step:  59 | fit: 59.00000 | delta: 1.0e+00 | secs: 6.49993
+step:  60 | fit: 60.00000 | delta: 1.0e+00 | secs: 6.23690
+step:  61 | fit: 61.00000 | delta: 1.0e+00 | secs: 6.16337
+step:  62 | fit: 62.00000 | delta: 1.0e+00 | secs: 6.16260
+step:  63 | fit: 63.00000 | delta: 1.0e+00 | secs: 6.20715
+step:  64 | fit: 64.00000 | delta: 1.0e+00 | secs: 6.17290
+step:  65 | fit: 65.00000 | delta: 1.0e+00 | secs: 6.09320
+step:  66 | fit: 66.00000 | delta: 1.0e+00 | secs: 6.11360
+step:  67 | fit: 67.00000 | delta: 1.0e+00 | secs: 6.13160
+step:  68 | fit: 68.00000 | delta: 1.0e+00 | secs: 6.31992
+step:  69 | fit: 69.00000 | delta: 1.0e+00 | secs: 6.23373
+step:  70 | fit: 70.00000 | delta: 1.0e+00 | secs: 6.26673
+step:  71 | fit: 71.00000 | delta: 1.0e+00 | secs: 6.28586
+step:  72 | fit: 72.00000 | delta: 1.0e+00 | secs: 6.36845
+step:  73 | fit: 73.00000 | delta: 1.0e+00 | secs: 6.34927
+step:  74 | fit: 74.00000 | delta: 1.0e+00 | secs: 6.38709
+step:  75 | fit: 75.00000 | delta: 1.0e+00 | secs: 6.42398
+step:  76 | fit: 76.00000 | delta: 1.0e+00 | secs: 6.53900
+step:  77 | fit: 77.00000 | delta: 1.0e+00 | secs: 6.48002
+step:  78 | fit: 78.00000 | delta: 1.0e+00 | secs: 6.56802
+step:  79 | fit: 79.00000 | delta: 1.0e+00 | secs: 6.46011
+step:  80 | fit: 80.00000 | delta: 1.0e+00 | secs: 6.44834
+step:  81 | fit: 81.00000 | delta: 1.0e+00 | secs: 6.48640
+step:  82 | fit: 82.00000 | delta: 1.0e+00 | secs: 6.47216
+step:  83 | fit: 83.00000 | delta: 1.0e+00 | secs: 6.51504
+step:  84 | fit: 84.00000 | delta: 1.0e+00 | secs: 6.49722
+step:  85 | fit: 85.00000 | delta: 1.0e+00 | secs: 6.49916
+step:  86 | fit: 86.00000 | delta: 1.0e+00 | secs: 6.47920
+step:  87 | fit: 87.00000 | delta: 1.0e+00 | secs: 6.43758
+step:  88 | fit: 88.00000 | delta: 1.0e+00 | secs: 6.41325
+step:  89 | fit: 89.00000 | delta: 1.0e+00 | secs: 6.44720
+step:  90 | fit: 90.00000 | delta: 1.0e+00 | secs: 6.46448
+step:  91 | fit: 91.00000 | delta: 1.0e+00 | secs: 6.44082
+step:  92 | fit: 92.00000 | delta: 1.0e+00 | secs: 6.42109
+step:  93 | fit: 93.00000 | delta: 1.0e+00 | secs: 6.43362
+step:  94 | fit: 94.00000 | delta: 1.0e+00 | secs: 6.64460
+step:  95 | fit: 95.00000 | delta: 1.0e+00 | secs: 6.41755
+step:  96 | fit: 96.00000 | delta: 1.0e+00 | secs: 6.40466
+step:  97 | fit: 97.00000 | delta: 1.0e+00 | secs: 6.47563
+step:  98 | fit: 98.00000 | delta: 1.0e+00 | secs: 6.46066
+step:  99 | fit: 99.00000 | delta: 1.0e+00 | secs: 6.33785
+step: 100 | fit: 100.00000 | delta: 1.0e+00 | secs: 6.48941
+step: 101 | fit: 101.00000 | delta: 1.0e+00 | secs: 6.51239
+step: 102 | fit: 102.00000 | delta: 1.0e+00 | secs: 6.49855
+step: 103 | fit: 103.00000 | delta: 1.0e+00 | secs: 6.43803
+step: 104 | fit: 104.00000 | delta: 1.0e+00 | secs: 6.50285
+step: 105 | fit: 105.00000 | delta: 1.0e+00 | secs: 6.51758
+step: 106 | fit: 106.00000 | delta: 1.0e+00 | secs: 6.55971
+step: 107 | fit: 107.00000 | delta: 1.0e+00 | secs: 6.52264
+step: 108 | fit: 108.00000 | delta: 1.0e+00 | secs: 6.49633
+step: 109 | fit: 109.00000 | delta: 1.0e+00 | secs: 6.44965
+step: 110 | fit: 110.00000 | delta: 1.0e+00 | secs: 6.42541
+step: 111 | fit: 111.00000 | delta: 1.0e+00 | secs: 6.49008
+step: 112 | fit: 112.00000 | delta: 1.0e+00 | secs: 6.41547
+step: 113 | fit: 113.00000 | delta: 1.0e+00 | secs: 6.47202
+step: 114 | fit: 114.00000 | delta: 1.0e+00 | secs: 6.52737
+step: 115 | fit: 115.00000 | delta: 1.0e+00 | secs: 6.57006
+step: 116 | fit: 116.00000 | delta: 1.0e+00 | secs: 6.52038
+step: 117 | fit: 117.00000 | delta: 1.0e+00 | secs: 6.52654
+step: 118 | fit: 118.00000 | delta: 1.0e+00 | secs: 6.56784
+step: 119 | fit: 119.00000 | delta: 1.0e+00 | secs: 6.53790
+step: 120 | fit: 120.00000 | delta: 1.0e+00 | secs: 6.42507
+step: 121 | fit: 121.00000 | delta: 1.0e+00 | secs: 6.65574
+step: 122 | fit: 122.00000 | delta: 1.0e+00 | secs: 6.30248
+step: 123 | fit: 123.00000 | delta: 1.0e+00 | secs: 6.31682
+step: 124 | fit: 124.00000 | delta: 1.0e+00 | secs: 6.30943
+step: 125 | fit: 125.00000 | delta: 1.0e+00 | secs: 6.31280
+step: 126 | fit: 126.00000 | delta: 1.0e+00 | secs: 6.33814
+step: 127 | fit: 127.00000 | delta: 1.0e+00 | secs: 6.31319
+step: 128 | fit: 128.00000 | delta: 1.0e+00 | secs: 6.48495
+step: 129 | fit: 129.00000 | delta: 1.0e+00 | secs: 6.44061
+step: 130 | fit: 130.00000 | delta: 1.0e+00 | secs: 6.43823
+step: 131 | fit: 131.00000 | delta: 1.0e+00 | secs: 6.36313
+step: 132 | fit: 132.00000 | delta: 1.0e+00 | secs: 6.33445
+step: 133 | fit: 133.00000 | delta: 1.0e+00 | secs: 6.35304
+step: 134 | fit: 134.00000 | delta: 1.0e+00 | secs: 6.28303
+step: 135 | fit: 135.00000 | delta: 1.0e+00 | secs: 6.20976
+step: 136 | fit: 136.00000 | delta: 1.0e+00 | secs: 6.18301
+step: 137 | fit: 137.00000 | delta: 1.0e+00 | secs: 6.22632
+step: 138 | fit: 138.00000 | delta: 1.0e+00 | secs: 6.20200
+step: 139 | fit: 139.00000 | delta: 1.0e+00 | secs: 6.21114
+step: 140 | fit: 140.00000 | delta: 1.0e+00 | secs: 6.14023
+step: 141 | fit: 141.00000 | delta: 1.0e+00 | secs: 6.16918
+step: 142 | fit: 142.00000 | delta: 1.0e+00 | secs: 6.20894
+step: 143 | fit: 143.00000 | delta: 1.0e+00 | secs: 6.16845
+step: 144 | fit: 144.00000 | delta: 1.0e+00 | secs: 6.19145
+step: 145 | fit: 145.00000 | delta: 1.0e+00 | secs: 6.13153
+step: 146 | fit: 146.00000 | delta: 1.0e+00 | secs: 6.11400
+step: 147 | fit: 147.00000 | delta: 1.0e+00 | secs: 6.09929
+step: 148 | fit: 148.00000 | delta: 1.0e+00 | secs: 6.18692
+step: 149 | fit: 149.00000 | delta: 1.0e+00 | secs: 6.08582
+step: 150 | fit: 150.00000 | delta: 1.0e+00 | secs: 6.15068
+step: 151 | fit: 151.00000 | delta: 1.0e+00 | secs: 6.14313
+step: 152 | fit: 152.00000 | delta: 1.0e+00 | secs: 6.55431
+step: 153 | fit: 153.00000 | delta: 1.0e+00 | secs: 6.07862
+step: 154 | fit: 154.00000 | delta: 1.0e+00 | secs: 6.10856
+step: 155 | fit: 155.00000 | delta: 1.0e+00 | secs: 6.12537
+step: 156 | fit: 156.00000 | delta: 1.0e+00 | secs: 6.14857
+step: 157 | fit: 157.00000 | delta: 1.0e+00 | secs: 6.13768
+step: 158 | fit: 158.00000 | delta: 1.0e+00 | secs: 6.08830
+step: 159 | fit: 159.00000 | delta: 1.0e+00 | secs: 6.06037
+step: 160 | fit: 160.00000 | delta: 1.0e+00 | secs: 6.16066
+step: 161 | fit: 161.00000 | delta: 1.0e+00 | secs: 6.15793
+step: 162 | fit: 162.00000 | delta: 1.0e+00 | secs: 6.09781
+step: 163 | fit: 163.00000 | delta: 1.0e+00 | secs: 6.10673
+step: 164 | fit: 164.00000 | delta: 1.0e+00 | secs: 6.13410
+step: 165 | fit: 165.00000 | delta: 1.0e+00 | secs: 6.10701
+step: 166 | fit: 166.00000 | delta: 1.0e+00 | secs: 6.15380
+step: 167 | fit: 167.00000 | delta: 1.0e+00 | secs: 6.08453
+step: 168 | fit: 168.00000 | delta: 1.0e+00 | secs: 6.15864
+step: 169 | fit: 169.00000 | delta: 1.0e+00 | secs: 6.06880
+step: 170 | fit: 170.00000 | delta: 1.0e+00 | secs: 6.25874
+step: 171 | fit: 171.00000 | delta: 1.0e+00 | secs: 6.16035
+step: 172 | fit: 172.00000 | delta: 1.0e+00 | secs: 6.23468
+step: 173 | fit: 173.00000 | delta: 1.0e+00 | secs: 6.12569
+step: 174 | fit: 174.00000 | delta: 1.0e+00 | secs: 6.10175
+step: 175 | fit: 175.00000 | delta: 1.0e+00 | secs: 6.09816
+step: 176 | fit: 176.00000 | delta: 1.0e+00 | secs: 6.25691
+step: 177 | fit: 177.00000 | delta: 1.0e+00 | secs: 6.05825
+step: 178 | fit: 178.00000 | delta: 1.0e+00 | secs: 6.09321
+step: 179 | fit: 179.00000 | delta: 1.0e+00 | secs: 6.11092
+step: 180 | fit: 180.00000 | delta: 1.0e+00 | secs: 6.08541
+step: 181 | fit: 181.00000 | delta: 1.0e+00 | secs: 6.06822
+step: 182 | fit: 182.00000 | delta: 1.0e+00 | secs: 6.07257
+step: 183 | fit: 183.00000 | delta: 1.0e+00 | secs: 6.05737
+step: 184 | fit: 184.00000 | delta: 1.0e+00 | secs: 6.85433
+step: 185 | fit: 185.00000 | delta: 1.0e+00 | secs: 6.04518
+step: 186 | fit: 186.00000 | delta: 1.0e+00 | secs: 6.06619
+step: 187 | fit: 187.00000 | delta: 1.0e+00 | secs: 6.05182
+step: 188 | fit: 188.00000 | delta: 1.0e+00 | secs: 6.08626
+step: 189 | fit: 189.00000 | delta: 1.0e+00 | secs: 6.07957
+step: 190 | fit: 190.00000 | delta: 1.0e+00 | secs: 6.08294
+step: 191 | fit: 191.00000 | delta: 1.0e+00 | secs: 6.06342
+step: 192 | fit: 192.00000 | delta: 1.0e+00 | secs: 6.07198
+step: 193 | fit: 193.00000 | delta: 1.0e+00 | secs: 6.06495
+step: 194 | fit: 194.00000 | delta: 1.0e+00 | secs: 6.07290
+step: 195 | fit: 195.00000 | delta: 1.0e+00 | secs: 6.02794
+step: 196 | fit: 196.00000 | delta: 1.0e+00 | secs: 6.03391
+step: 197 | fit: 197.00000 | delta: 1.0e+00 | secs: 6.09029
+step: 198 | fit: 198.00000 | delta: 1.0e+00 | secs: 6.03919
+step: 199 | fit: 199.00000 | delta: 1.0e+00 | secs: 6.03165
+step: 200 | fit: 200.00000 | delta: 1.0e+00 | secs: 6.05825
+step: 201 | fit: 201.00000 | delta: 1.0e+00 | secs: 6.22171
+step: 202 | fit: 202.00000 | delta: 1.0e+00 | secs: 6.15172
+step: 203 | fit: 203.00000 | delta: 1.0e+00 | secs: 6.16630
+step: 204 | fit: 204.00000 | delta: 1.0e+00 | secs: 6.12741
+step: 205 | fit: 205.00000 | delta: 1.0e+00 | secs: 6.49304
+step: 206 | fit: 206.00000 | delta: 1.0e+00 | secs: 6.07221
+step: 207 | fit: 207.00000 | delta: 1.0e+00 | secs: 6.07564
+step: 208 | fit: 208.00000 | delta: 1.0e+00 | secs: 6.05234
+step: 209 | fit: 209.00000 | delta: 1.0e+00 | secs: 6.07805
+step: 210 | fit: 210.00000 | delta: 1.0e+00 | secs: 6.05349
+step: 211 | fit: 211.00000 | delta: 1.0e+00 | secs: 6.06531
+step: 212 | fit: 212.00000 | delta: 1.0e+00 | secs: 6.06382
+step: 213 | fit: 213.00000 | delta: 1.0e+00 | secs: 6.09161
+step: 214 | fit: 214.00000 | delta: 1.0e+00 | secs: 6.10192
+step: 215 | fit: 215.00000 | delta: 1.0e+00 | secs: 6.08627
+step: 216 | fit: 216.00000 | delta: 1.0e+00 | secs: 6.15566
+step: 217 | fit: 217.00000 | delta: 1.0e+00 | secs: 6.08153
+step: 218 | fit: 218.00000 | delta: 1.0e+00 | secs: 6.09871
+step: 219 | fit: 219.00000 | delta: 1.0e+00 | secs: 6.12036
+step: 220 | fit: 220.00000 | delta: 1.0e+00 | secs: 6.12066
+step: 221 | fit: 221.00000 | delta: 1.0e+00 | secs: 6.15664
+step: 222 | fit: 222.00000 | delta: 1.0e+00 | secs: 6.11721
+step: 223 | fit: 223.00000 | delta: 1.0e+00 | secs: 6.07469
+step: 224 | fit: 224.00000 | delta: 1.0e+00 | secs: 6.07975
+step: 225 | fit: 225.00000 | delta: 1.0e+00 | secs: 6.10572
+step: 226 | fit: 226.00000 | delta: 1.0e+00 | secs: 6.08186
+step: 227 | fit: 227.00000 | delta: 1.0e+00 | secs: 6.12946
+step: 228 | fit: 228.00000 | delta: 1.0e+00 | secs: 6.14341
+step: 229 | fit: 229.00000 | delta: 1.0e+00 | secs: 6.16823
+step: 230 | fit: 230.00000 | delta: 1.0e+00 | secs: 6.16513
+step: 231 | fit: 231.00000 | delta: 1.0e+00 | secs: 6.18311
+step: 232 | fit: 232.00000 | delta: 1.0e+00 | secs: 6.58339
+step: 233 | fit: 233.00000 | delta: 1.0e+00 | secs: 6.12419
+step: 234 | fit: 234.00000 | delta: 1.0e+00 | secs: 6.11115
+step: 235 | fit: 235.00000 | delta: 1.0e+00 | secs: 6.18169
+step: 236 | fit: 236.00000 | delta: 1.0e+00 | secs: 6.11828
+step: 237 | fit: 237.00000 | delta: 1.0e+00 | secs: 6.11219
+step: 238 | fit: 238.00000 | delta: 1.0e+00 | secs: 6.08703
+step: 239 | fit: 239.00000 | delta: 1.0e+00 | secs: 6.25622
+step: 240 | fit: 240.00000 | delta: 1.0e+00 | secs: 6.13866
+step: 241 | fit: 241.00000 | delta: 1.0e+00 | secs: 6.08164
+step: 242 | fit: 242.00000 | delta: 1.0e+00 | secs: 6.06213
+step: 243 | fit: 243.00000 | delta: 1.0e+00 | secs: 6.07491
+step: 244 | fit: 244.00000 | delta: 1.0e+00 | secs: 6.05631
+step: 245 | fit: 245.00000 | delta: 1.0e+00 | secs: 6.07009
+step: 246 | fit: 246.00000 | delta: 1.0e+00 | secs: 6.04826
+step: 247 | fit: 247.00000 | delta: 1.0e+00 | secs: 6.03030
+step: 248 | fit: 248.00000 | delta: 1.0e+00 | secs: 6.03310
+step: 249 | fit: 249.00000 | delta: 1.0e+00 | secs: 6.03548
+step: 250 | fit: 250.00000 | delta: 1.0e+00 | secs: 6.04084
+step: 251 | fit: 251.00000 | delta: 1.0e+00 | secs: 6.04250
+step: 252 | fit: 252.00000 | delta: 1.0e+00 | secs: 6.03909
+step: 253 | fit: 253.00000 | delta: 1.0e+00 | secs: 6.07241
+step: 254 | fit: 254.00000 | delta: 1.0e+00 | secs: 6.04223
+step: 255 | fit: 255.00000 | delta: 1.0e+00 | secs: 6.04949
+step: 256 | fit: 256.00000 | delta: 1.0e+00 | secs: 6.05190
+step: 257 | fit: 257.00000 | delta: 1.0e+00 | secs: 6.07423
+step: 258 | fit: 258.00000 | delta: 1.0e+00 | secs: 6.06998
+step: 259 | fit: 259.00000 | delta: 1.0e+00 | secs: 6.05638
+step: 260 | fit: 260.00000 | delta: 1.0e+00 | secs: 6.04556
+step: 261 | fit: 261.00000 | delta: 1.0e+00 | secs: 6.10592
+step: 262 | fit: 262.00000 | delta: 1.0e+00 | secs: 6.04611
+step: 263 | fit: 263.00000 | delta: 1.0e+00 | secs: 6.10657
+step: 264 | fit: 264.00000 | delta: 1.0e+00 | secs: 6.11144
+step: 265 | fit: 265.00000 | delta: 1.0e+00 | secs: 6.15682
+step: 266 | fit: 266.00000 | delta: 1.0e+00 | secs: 6.19858
+step: 267 | fit: 267.00000 | delta: 1.0e+00 | secs: 6.22630
+step: 268 | fit: 268.00000 | delta: 1.0e+00 | secs: 6.19438
+step: 269 | fit: 269.00000 | delta: 1.0e+00 | secs: 6.16523
+step: 270 | fit: 270.00000 | delta: 1.0e+00 | secs: 6.20486
+step: 271 | fit: 271.00000 | delta: 1.0e+00 | secs: 6.17155
+step: 272 | fit: 272.00000 | delta: 1.0e+00 | secs: 6.16802
+step: 273 | fit: 273.00000 | delta: 1.0e+00 | secs: 6.16949
+step: 274 | fit: 274.00000 | delta: 1.0e+00 | secs: 6.15902
+step: 275 | fit: 275.00000 | delta: 1.0e+00 | secs: 6.16655
+step: 276 | fit: 276.00000 | delta: 1.0e+00 | secs: 6.17817
+step: 277 | fit: 277.00000 | delta: 1.0e+00 | secs: 6.21276
+step: 278 | fit: 278.00000 | delta: 1.0e+00 | secs: 6.18562
+step: 279 | fit: 279.00000 | delta: 1.0e+00 | secs: 6.18931
+step: 280 | fit: 280.00000 | delta: 1.0e+00 | secs: 6.18823
+step: 281 | fit: 281.00000 | delta: 1.0e+00 | secs: 6.14564
+step: 282 | fit: 282.00000 | delta: 1.0e+00 | secs: 6.57052
+step: 283 | fit: 283.00000 | delta: 1.0e+00 | secs: 6.11356
+step: 284 | fit: 284.00000 | delta: 1.0e+00 | secs: 6.11807
+step: 285 | fit: 285.00000 | delta: 1.0e+00 | secs: 6.10577
+step: 286 | fit: 286.00000 | delta: 1.0e+00 | secs: 6.12651
+step: 287 | fit: 287.00000 | delta: 1.0e+00 | secs: 6.12583
+step: 288 | fit: 288.00000 | delta: 1.0e+00 | secs: 6.12751
+step: 289 | fit: 289.00000 | delta: 1.0e+00 | secs: 6.13141
+step: 290 | fit: 290.00000 | delta: 1.0e+00 | secs: 6.12784
+step: 291 | fit: 291.00000 | delta: 1.0e+00 | secs: 6.12299
+step: 292 | fit: 292.00000 | delta: 1.0e+00 | secs: 6.11408
+step: 293 | fit: 293.00000 | delta: 1.0e+00 | secs: 6.11336
+step: 294 | fit: 294.00000 | delta: 1.0e+00 | secs: 6.11472
+step: 295 | fit: 295.00000 | delta: 1.0e+00 | secs: 6.11744
+step: 296 | fit: 296.00000 | delta: 1.0e+00 | secs: 6.12290
+step: 297 | fit: 297.00000 | delta: 1.0e+00 | secs: 6.11441
+step: 298 | fit: 298.00000 | delta: 1.0e+00 | secs: 6.08894
+step: 299 | fit: 299.00000 | delta: 1.0e+00 | secs: 6.14235
+
+--------------------------Begin to evaluate the mode-------------------------
+/home/kyzhou/anaconda3/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [05:40<51:01, 340.12s/it] 20%|██        | 2/10 [11:19<45:18, 339.82s/it] 30%|███       | 3/10 [16:58<39:36, 339.50s/it] 40%|████      | 4/10 [22:36<33:54, 339.07s/it] 50%|█████     | 5/10 [28:15<28:15, 339.11s/it] 60%|██████    | 6/10 [33:55<22:37, 339.34s/it] 70%|███████   | 7/10 [39:34<16:58, 339.49s/it] 80%|████████  | 8/10 [45:14<11:18, 339.37s/it] 90%|█████████ | 9/10 [50:52<05:39, 339.23s/it]100%|██████████| 10/10 [56:33<00:00, 339.47s/it]100%|██████████| 10/10 [56:33<00:00, 339.30s/it]
+-------------------------------cross_validate-------------------------------
+P-value:0.6278±0.0020	R-value:0.6178±0.0017	F1-score:0.6153±0.0018
+-------------------------------predict-------------------------------
+P-value:0.4767±0.0029	R-value:0.4826±0.0020	F1-score:0.4556±0.0023
+Paramater:Maxiterator 300
+
